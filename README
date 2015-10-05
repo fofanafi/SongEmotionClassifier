@@ -1,5 +1,0 @@
-Categorize songs by their emotions, using lyrics and music.
-
-categorizer.py: Choose to categorize based on mood, energy or love.
-converter.py: Converts the corpus into formats suitable for use by Weka or libshorttext. Data obtained by hand and from the EchoNest API.
-cross-validater.py: Runs cross validation on the data set, uses libshorttext.
